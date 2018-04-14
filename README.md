@@ -1,3 +1,3 @@
-# botcoin
+# Botcoin
 
-A bot to buy and sell bitcoin, litecoin and Bcash.
+A Nodejs bot for buy and sell bitcoin, litecoin and Bcash.
